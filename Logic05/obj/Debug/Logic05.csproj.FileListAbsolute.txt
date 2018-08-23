@@ -1,0 +1,7 @@
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\bin\Debug\Logic05.exe.config
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\bin\Debug\Logic05.exe
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\bin\Debug\Logic05.pdb
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\obj\Debug\Logic05.csprojAssemblyReference.cache
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\obj\Debug\Logic05.csproj.CoreCompileInputs.cache
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\obj\Debug\Logic05.exe
+D:\XSIS Bootcamp-164\Hari-06\Logic05\Logic05\obj\Debug\Logic05.pdb
